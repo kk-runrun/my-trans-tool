@@ -36,7 +36,7 @@ def main_app():
     if "processing" not in st.session_state:
         st.session_state.processing = False
 
-    FIXED_API_KEY = "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" 
+    FIXED_API_KEY = "" 
     FIXED_BASE_URL = "http://gptapi.kuajingvs.com:7999/v1/chat/completions" 
     FIXED_MODEL_NAME = "gpt-4o" 
 
