@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key_123
+  name: translation_app_cookie
+credentials:
+  usernames:
+    admin:
+      name: Administrator
+      password: $2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeK6BLg9kp.0e.L3Q/y
+    manager_li:
+      name: manager_li
+      password: $2b$12$A15b3pZACklCK.YW2Db8Y.jY5lltxAWPdyF.ChcQJzpQxOVxDsr.y
+preauthorized:
+  emails: []
